@@ -2,15 +2,6 @@
 
 A Python-based automation bot that scrapes job portals for role-specific keywords and sends real-time notifications via Discord Webhooks.
 
-## Features
-
-✨ **Automated Job Scraping**: Continuously monitors job websites for new postings
-🔍 **Keyword Filtering**: Search for specific job titles, skills, or keywords
-🔔 **Discord Notifications**: Get instant alerts when matching jobs are found
-⏰ **Customizable Schedule**: Run checks at intervals (every minute, hourly, daily, etc.)
-🛡️ **Error Handling**: Gracefully handles network failures and timeouts
-⚙️ **Easy Configuration**: Simple config section for URLs, selectors, and keywords
-
 ## Technology Stack
 
 - **Python 3.13+**
